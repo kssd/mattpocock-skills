@@ -5,16 +5,16 @@ description: Shape an article as a journey of beats, choose-your-own-adventure s
 
 <what-to-do>
 
-The user has passed (or will pass) a markdown file of raw material.
+The user has passed (or will pass) a markdown file of raw material, or will paste raw material directly into the chat. If they paste it inline, treat that as the pile — no file read needed.
 
 If the user did not say where to save the article, ask once and remember the path.
 
 Then run a beat-by-beat journey:
 
-1. Write 2–3 candidate **starting beats**, drawn from the raw material. Each is a different entry point into the article. Show the user the beats before writing it to the article file. The user picks one. Preview what beats that might lead to once written - as if the user is seeing a little way down the path.
-2. Once the user picks a starting beat, write **only that beat** to the article file. A beat may be one sentence or several paragraphs — whatever that beat naturally is. Stop there.
-3. Re-read the article file from disk. Then offer 2–3 candidate **next beats** — different directions the journey could pivot to from where the article now stands.
-4. Loop steps 2–4 until the article reaches a natural end.
+1. Write 2–3 candidate **starting beats**, drawn from the raw material. Each is a different entry point into the article. Show the user the beats before writing anything to the article file. For each candidate, preview where it might lead next — a glimpse a little way down the path. The user picks one.
+2. Once the user picks a beat, write **only that beat** to the article file. Stop there.
+3. Offer 2–3 candidate **next beats** — different directions the journey could pivot to from where the article now stands. For each candidate, preview where it might lead next.
+4. Loop steps 2–3 until the article reaches a natural end.
 
 </what-to-do>
 
@@ -45,7 +45,7 @@ The article ends when the journey is complete — not when the pile is empty. Mo
 ## Writing rhythm
 
 - Append one beat at a time. Never write ahead.
-- Re-read the article file from disk before every write. Preserve user edits absolutely.
+- Re-read the article file from disk before every write (skip if raw material was inline). Preserve user edits absolutely.
 - If the user edits a previous beat substantially, let it change what comes next.
 - If the user says "rewrite that beat" or "go back and try a different beat 3", do it — edit in place, leave the rest alone.
 

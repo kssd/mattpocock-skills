@@ -1,0 +1,4 @@
+- Drops filler words, articles, and pleasantries
+- Maintains full technical accuracy despite the compression
+- Response is noticeably shorter than a standard prose explanation would be
+- Uses telegraphic or compressed phrasing rather than full sentences throughout

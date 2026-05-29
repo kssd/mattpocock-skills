@@ -1,0 +1,4 @@
+- Explains the function in the context of the broader system, not just the function in isolation
+- Describes how it relates to other modules or components
+- Gives a higher-level perspective on why the function exists
+- Does not just describe what the code does line by line

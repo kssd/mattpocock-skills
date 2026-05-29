@@ -1,0 +1,4 @@
+- Produces a structured PRD document (not a conversational reply)
+- Captures the specific requirements discussed (100 req/min, 429 status, Retry-After, Redis)
+- Does not ask clarifying questions — synthesises what was already in the conversation
+- Formats output suitable for a GitHub issue (headings, clear sections)

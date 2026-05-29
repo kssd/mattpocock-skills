@@ -1,0 +1,4 @@
+- Asks probing questions about the plan before accepting it
+- Asks about or references existing domain model / terminology before proceeding
+- Does not immediately start implementing
+- Surfaces at least one unstated assumption or edge case in the proposed change

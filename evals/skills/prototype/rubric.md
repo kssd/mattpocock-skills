@@ -1,0 +1,4 @@
+- Treats this as a throwaway exploration, not a production implementation
+- Explores at least two distinct approaches
+- Keeps scope minimal (terminal app or simple variations, not full integration)
+- Makes the different approaches easy to compare

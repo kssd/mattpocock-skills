@@ -1,0 +1,4 @@
+- Prioritises building a feedback loop before hypothesising or fixing (Phase 1 addressed first)
+- Proposes at least one concrete strategy to raise the flakiness reproduction rate
+- Does not jump straight to a list of possible causes or code fixes
+- Acknowledges non-determinism and outlines how to make the bug consistently reproducible

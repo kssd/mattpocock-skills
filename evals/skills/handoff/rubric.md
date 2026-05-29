@@ -1,0 +1,4 @@
+- Produces a compact handoff document, not a verbose summary
+- Captures current state (root cause found, fix not yet written)
+- Includes the specific finding (event listeners not removed on disconnect)
+- States clearly what remains to be done (write fix, add regression test)

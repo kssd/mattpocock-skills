@@ -1,0 +1,4 @@
+- Identifies specific deepening or separation opportunities (not just "split the class")
+- Frames suggestions in terms of module depth, coupling, or interface simplification
+- References or asks about CONTEXT.md / domain language to guide the refactor
+- Does not produce a generic refactoring checklist detached from the specific problem

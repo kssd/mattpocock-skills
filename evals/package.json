@@ -1,0 +1,16 @@
+{
+  "name": "mats-skills-evals",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "eval": "tsx runner.ts",
+    "eval:all": "tsx runner.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.100.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0"
+  }
+}

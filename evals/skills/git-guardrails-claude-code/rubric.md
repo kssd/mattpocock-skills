@@ -1,0 +1,4 @@
+- Creates or modifies Claude Code hook configuration to block dangerous git commands
+- Covers at least git push and git reset --hard
+- Explains what each hook blocks and why
+- Does not require manual steps that defeat the purpose of the automation

@@ -1,0 +1,4 @@
+- Creates a directory structure with problem, solution, and explainer files
+- Scaffolds exactly 3 problems as requested
+- Uses the section name "generics" in the directory or file paths
+- Uses a consistent naming convention across all scaffolded files

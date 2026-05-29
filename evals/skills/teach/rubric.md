@@ -1,0 +1,3 @@
+- Asks the user why they want to learn the topic before attempting to teach anything (mission-first)
+- Acknowledges the stateful, multi-session nature of the learning — frames this as an ongoing engagement, not a one-shot answer
+- Does not rely on its own knowledge alone — either indicates it will find trusted resources, or refrains from teaching until trusted resources are identified

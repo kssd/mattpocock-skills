@@ -20,6 +20,7 @@
     "./skills/misc/git-guardrails-claude-code",
     "./skills/misc/migrate-to-shoehorn",
     "./skills/misc/scaffold-exercises",
-    "./skills/misc/setup-pre-commit"
+    "./skills/misc/setup-pre-commit",
+    "./skills/misc/writing-beats"
   ]
 }

@@ -1,0 +1,4 @@
+- Presents 2–3 candidate starting beats drawn from the raw material, each a different entry point into the article
+- Shows the starting beat candidates to the user before writing anything to a file, and invites the user to pick one
+- Previews where each starting beat might lead (hints at possible next beats)
+- Does not write the full article — stops after presenting options and asking which beat to start with

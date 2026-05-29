@@ -1,0 +1,4 @@
+- Writes a failing test before any implementation code
+- Explicitly follows red-green-refactor (names or demonstrates the cycle)
+- Covers at least one rejection case (missing @, spaces)
+- Does not write the implementation before a failing test is established

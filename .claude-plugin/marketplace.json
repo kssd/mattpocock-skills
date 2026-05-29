@@ -1,0 +1,20 @@
+{
+  "name": "mattpocock-skills",
+  "description": "Matt Pocock's agent skill collection: engineering, productivity, and workflow tools for real software development.",
+  "owner": {
+    "name": "Matt Pocock",
+    "email": "matt@mattpocock.com"
+  },
+  "plugins": [
+    {
+      "name": "mattpocock-skills",
+      "displayName": "Skills For Real Engineers",
+      "description": "Disciplined engineering skills covering debugging, TDD, architecture review, grilling sessions, and daily productivity — not vibe coding.",
+      "source": "./.claude-plugin",
+      "homepage": "https://github.com/mattpocock/skills",
+      "license": "MIT",
+      "keywords": ["engineering", "tdd", "debugging", "productivity", "architecture", "workflow", "diagnosis"],
+      "category": "developer-tools"
+    }
+  ]
+}

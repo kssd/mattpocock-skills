@@ -1,0 +1,4 @@
+- Produces a valid SKILL.md with correct frontmatter (name and description fields)
+- Description field includes "Use when" trigger conditions
+- Skill body covers the requested structure (questions first, then review dimensions)
+- The skill is self-contained and does not require external config files to function

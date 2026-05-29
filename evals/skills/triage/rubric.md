@@ -1,0 +1,4 @@
+- Assigns each issue a triage state or role
+- Differentiates between bugs and feature requests
+- Flags high-severity issues (crash, memory leak) with higher priority than cosmetic ones
+- Does not treat all issues as equivalent urgency

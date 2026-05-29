@@ -1,0 +1,4 @@
+- Installs Husky and lint-staged
+- Configures Prettier formatting as part of the pre-commit hook
+- Includes type checking in the hook pipeline
+- Produces configuration files, not just instructions

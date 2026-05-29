@@ -1,0 +1,4 @@
+- Targets test files specifically, not source files
+- Replaces `as` type assertions with the @total-typescript/shoehorn equivalent
+- Preserves the intent of each original assertion
+- Does not modify non-test files

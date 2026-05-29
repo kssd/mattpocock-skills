@@ -1,0 +1,4 @@
+- Breaks the PRD into multiple independently-grabbable issues (not one monolithic ticket)
+- Each issue represents a vertical slice of functionality, not a single layer
+- Issues are scoped so each can be completed without depending on unfinished siblings
+- Covers the main requirements: opt-in, frequency config, unsubscribe link

@@ -1,0 +1,4 @@
+- Asks which issue tracker the user wants to use (GitHub, Linear, or local files)
+- Asks about triage label vocabulary or confirms defaults
+- Asks where to save documentation (CONTEXT.md location, ADR directory)
+- Does not write config files before gathering input from the user

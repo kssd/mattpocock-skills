@@ -1,0 +1,4 @@
+- Asks probing questions rather than accepting the plan at face value
+- Explores at least one unstated assumption (team familiarity, N+1 issues, client compatibility, migration path)
+- Does not immediately agree with or start helping implement the rewrite
+- Provides a recommended answer alongside each question

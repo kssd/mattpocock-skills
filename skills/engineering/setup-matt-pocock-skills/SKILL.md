@@ -119,3 +119,7 @@ For "other" issue trackers, write `docs/agents/issue-tracker.md` from scratch us
 ### 5. Done
 
 Tell the user the setup is complete and which engineering skills will now read from these files. Mention they can edit `docs/agents/*.md` directly later — re-running this skill is only necessary if they want to switch issue trackers or restart from scratch.
+
+## Out of scope
+
+**Verify/check mode** — there is no `--verify` flag or separate verify skill. To check whether existing `docs/agents/*.md` files still match current seed templates, run this skill and tell it to verify without rewriting. Natural-language steering is the intended control surface.

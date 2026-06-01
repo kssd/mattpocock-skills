@@ -17,6 +17,7 @@
     "./skills/productivity/handoff",
     "./skills/productivity/write-a-skill",
     "./skills/productivity/teach",
+    "./skills/productivity/writing-fragments",
     "./skills/misc/git-guardrails-claude-code",
     "./skills/misc/migrate-to-shoehorn",
     "./skills/misc/scaffold-exercises",

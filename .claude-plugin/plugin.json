@@ -21,6 +21,7 @@
     "./skills/misc/migrate-to-shoehorn",
     "./skills/misc/scaffold-exercises",
     "./skills/misc/setup-pre-commit",
-    "./skills/misc/writing-beats"
+    "./skills/misc/writing-beats",
+    "./skills/productivity/writing-shape"
   ]
 }

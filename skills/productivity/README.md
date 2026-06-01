@@ -7,3 +7,4 @@ General workflow tools, not code-specific.
 - **[handoff](./handoff/SKILL.md)** — Compact the current conversation into a handoff document so another agent can continue the work.
 - **[write-a-skill](./write-a-skill/SKILL.md)** — Create new skills with proper structure, progressive disclosure, and bundled resources.
 - **[teach](./teach/SKILL.md)** — Teach the user a new skill or concept within the current workspace, tracking progress across sessions via mission, glossary, resources, and learning records.
+- **[writing-shape](./writing-shape/SKILL.md)** — Take a markdown file of raw material and shape it into an article through a conversational session — drafting candidate openings, growing the piece paragraph by paragraph, arguing about format at each step.

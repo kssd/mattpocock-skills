@@ -1,0 +1,5 @@
+- Asks the user where to save the document (since no path was given in the trigger), OR captures the path if one was provided
+- Captures at least one fragment from the user's opening message before asking any follow-up questions
+- Does not impose any structure, outline, phases, or sections on the session
+- Does not ask permission before appending each fragment — appending happens silently with at most a brief mention in passing
+- The fragment file, when first written, starts with a single H1 working title and fragments separated by `---` with no metadata, TOC, or date

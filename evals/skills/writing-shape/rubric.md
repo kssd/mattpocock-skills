@@ -1,0 +1,6 @@
+- Reads the raw material before doing anything else (does not immediately start drafting without processing the pile)
+- Presents 2–3 candidate openings (not just 1), each implying a different angle or thesis for the article
+- Shows all candidate openings to the user and asks them to pick one (or compose a hybrid) before writing anything to a file
+- Does NOT write the full article — stops after presenting opening candidates and soliciting a choice
+- Does NOT edit or modify the raw material file
+- Asks the user where to save the article (or acknowledges the question was asked in the trigger) before writing any output file
